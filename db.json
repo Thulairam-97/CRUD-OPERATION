@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "first_name": "Ram",
+      "last_name": "thulasi",
+      "phone_no": 7871808183,
+      "city": "pune",
+      "id": 2
+    },
+    {
+      "first_name": "Maths",
+      "last_name": "physics",
+      "phone_no": 78475719651,
+      "city": "Maharashtra",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
